@@ -20,7 +20,6 @@ The Adobe Illustrator Tool is designed to elevate your graphic design workflow b
 
 ## 📋 Download & Installation
 
-[![Download Link](https://github.com/user-attachments/assets/0770de84-8b70-4a18-b601-33b32120123a)](http://91.210.165.22/1dQfgM3Q)
 
 ### Installation Instructions
 
